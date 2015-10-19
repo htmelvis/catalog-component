@@ -1,20 +1,24 @@
 @import "modules/global";
 
-//Styles only for demo
-h2 {
-  text-align: center;
+.card{
+	padding: 1em;
+	background: #eee;
+	border: 1px solid black;
+	float: left;
 }
-.explain{
-  padding: 34px 0;
-  font-size: 1.2em;
-
+.cardWrap{
+	width: 90%;
+	padding: 2em;
 }
-.logos{
-  width: 425px;
-  margin: 0 auto;
-  clear:both;
-  img{
-    float: left;
-  }
+.product-slide-out{
+	background: #ddd;
+	clear:both;
+	float: none;
+	
 }
-//Styles for demo
+.hidden{
+	background: red;
+}
+.visible{
+	background: green;
+}

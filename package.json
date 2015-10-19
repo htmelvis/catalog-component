@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/htmelvis/react-webpack-starter#readme",
   "dependencies": {
+    "classnames": "^2.2.0",
+    "jquery": "^2.1.4",
+    "lodash": "^3.10.1",
     "react": "^0.13.3"
   },
   "devDependencies": {

@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Post Mounted Above Ground Kit",
+    "code": "OHPW",
+    "price": "1850.00",
+    "productOptions": [
+      {"value": "4' x 6' {p:1850|c+46-P}", "text": "4' x 6' Net Kit"},
+      {"value": "4' x 8' {p:1950|c+48-P}", "text": "4' x 8' Net Kit"},
+      {"value": "4' x 9' {p:1975|c+49-P}", "text": "4' x 9' Net Kit"},
+      {"value": "4' x 10' {p:1995|c+410-P}", "text": "4' x 10' Net Kit"},
+      {"value": "4' x 12' {p:2150|c+412-P}", "text": "4' x 12' Net Kit"},
+      {"value": "4' x 14' {p:2250|c+414-P}", "text": "4' x 14' Net Kit"}
+    ],
+    "description": "The unique post mounted solution that protects your personel and equipement while also guarding the vertical door runners on your loading dock. Our most popular loading dock solution. ",
+    "imgUrl": "http://placehold.it/300x300"
+  },
+  {
+    "name": "Wall Mounted Dock Net Kit",
+    "code": "OHPW",
+    "price": "550.00",
+    "productOptions": [
+      {"value": "4' x 6' {p:550|c+46-B}", "text": "4' x 6' Net Kit"},
+      {"value": "4' x 8' {p:575|c+48-B}", "text": "4' x 8' Net Kit"},
+      {"value": "4' x 9' {p:595|c+49-B}", "text": "4' x 9' Net Kit"},
+      {"value": "4' x 10' {p:650|c+410-B}", "text": "4' x 10' Net Kit"},
+      {"value": "4' x 12' {p:750|c+412-B}", "text": "4' x 12' Net Kit"},
+      {"value": "4' x 14' {p:875|c+414-B}", "text": "4' x 14' Net Kit"}
+    ],
+    "description": "The Wall Mounted Dock Net Kit provides much needed protection from falls, collisions, and other hazards related to loading dock doors. This net does not impede the upright door track.",
+    "imgUrl": "http://placehold.it/300x300"
+  },
+  {
+    "name": "Wall Mounted Debris Net Kit",
+    "code": "OHDB",
+    "price": "1675.00",
+    "productOptions": [
+      {"value": "4' x 6'{p:495|c+46}", "text": "4' x 6' Debris Net Kit"},
+      {"value": "4' x 8'{p:525|c+48}", "text": "4' x 8' Debris Net Kit"},
+      {"value": "4' x 9'{p:550|c+49}", "text": "4' x 9' Debris Net Kit"},
+      {"value": "4' x 10'{p:575|c+410}", "text": "4' x 10' Debris Net Kit"},
+      {"value": "4' x 12'{p:675|c+412}", "text": "4' x 12' Debris Net Kit"},
+      {"value": "4' x 14'{p:795|c+414}", "text": "4' x 14' Debris Net Kit"}
+    ],
+    "description": "Keep debris and possible contaminants out of your facility while maintainingg vital airflow and visibility. Maintain safety on your loading dock with easy installation and zero maintainence.",
+    "imgUrl": "http://placehold.it/300x300"
+  },
+  {
+    "name": "In Ground on Post Dock Net Kit",
+    "code": "OHIG",
+    "price": "1850.00",
+    "productOptions": [
+      {"value": "4' x 6' {p:1850|c+46-P}", "text": "4' x 6' Net Kit"},
+      {"value": "4' x 8' {p:1950|c+48-P}", "text": "4' x 8' Net Kit"},
+      {"value": "4' x 9' {p:1975|c+49-P}", "text": "4' x 9' Net Kit"},
+      {"value": "4' x 10' {p:1995|c+410-P}", "text": "4' x 10' Net Kit"},
+      {"value": "4' x 12' {p:2150|c+412-P}", "text": "4' x 12' Net Kit"},
+      {"value": "4' x 14' {p:2250|c+414-P}", "text": "4' x 14' Net Kit"},
+      {"value": "4' x 16' {p:2350|c+416-P}", "text": "4' x 16' Net Kit"},
+      {"value": "4' x 18' {p:2450|c+418-P}", "text": "4' x 18' Net Kit"}
+    ],
+    "description": "The strongest Dock Net Kit that USNetting has to offer with superior strength and safety against motorized vehicles, and dock related injury. The ultimate in forklift protection.",
+    "imgUrl": "http://placehold.it/300x300"
+
+  },
+  {
+    "name": "Post Mounted Bollard Net Systems",
+    "code": "BPNS",
+    "price": "200.00",
+    "productOptions": [
+      {"value": "4' x 6' {p:1850|c+46-P}", "text": "Something to write here"},
+      {"value": "4' x 6' {p:1850|c+46-P}", "text": "Something to write here 2"},
+      {"value": "4' x 6' {p:1850|c+46-P}", "text": "Something to write here 4"}
+    ],
+    "description": "Custom safety barrier solutions for personnel and equipment in the industrial environment. Mix and match brackets, bollards, and nets for superior protection against workplace injuries.",
+    "imgUrl": "http://placehold.it/300x300"
+  }
+]
+
